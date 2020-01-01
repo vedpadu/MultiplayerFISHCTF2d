@@ -11,7 +11,7 @@ public class networkTextSync : Photon.MonoBehaviour
     
     
 
-    
+    //test commit string
     //public bool isPufferfish;
     // Use this for initialization
     void Start () {
