@@ -1,2 +1,2 @@
 # MultiplayerFISHCTF2d
-unity project with spaceships very multiplayer
+Multiplayer online battle game in which two teams choose spaceships and fight in team deathmatches.
